@@ -1,1 +1,10 @@
-U2FsdGVkX1/zWAKhFftl8Ouy4o3N4gxxYzQP+WSHKQm8BQq4nRqaDQ+0X7AOV6wD0LxWWmEuwDExJNfuNw2I0NGyq4eo6sbEL2sErMdShigWFmPzvWQhrbS82iRaYK2uRl4EmFWWnB3QIHVCzeVMSyLuwTbrqrzWN2lqCo+Ka9NIGa1NVAw/7fHBfp0MQjtk5WA8VYepd3DMzPkfbJ8OsZ0RxFimN6jH1xCyaDRuzqTLXPmiYIWCS2TA6K/t5RpVAey9nkxNgwXGQGGGoLheFY2f7OKbQLC4w46YsA6WvGAxCPBlqsD/68BuXIGg3/VKVoux3OZh7sPYy88gv6giekD5YHJZuwXDrNSP4qIf97F9IZP7m9BxHF4mIkOAncKwy9IxPzU5HxDL17IQyIPcSM6z3b0NFNXM1OW1w4RxbEhEYaAPXxylBLOMHSsikpI/XBIAfgIZcpibvruAJgcb+CMgGl+WjL+J8QsDC1zW8QFrzFvLxC/gUzekByP4fy/n
+{
+	"access_token": "ya29.ImC0B5eLmzqIArz-FefAD_sdJ7lkYWxPMoMgrYlbE3bV99CIK7tQayd0WRLk16oaeKb62f00miJ3o26rl-6vauRFb9uChurb4D-Y7RrSJcypmusmniUXIvcLUz6Z98jTF0U",
+	"expires_in": 3600,
+	"scope": "",
+	"token_type": "Bearer",
+	"id_token": "",
+	"expires_time": 1575628325,
+	"expires_createtime": 1575625025,
+	"ower": "ongtrieuhau861coderoogit._.gmail.com.json"
+}
