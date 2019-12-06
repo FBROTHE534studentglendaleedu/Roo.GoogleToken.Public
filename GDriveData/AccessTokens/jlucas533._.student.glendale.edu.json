@@ -1,1 +1,10 @@
-U2FsdGVkX1+9hYqfy9uzcU5gQjHY+V3+x8XFFy/s+t8cFiJbhUY3XemEPrMh0o5m12nR4DJENglwUIWm4AZy3ovNoPpwAN+fq6Hew3BKpCd4USrw0dPTDcPtiQyn8NWB8gSMKTqzsadOQAhXWMDfgoJlkIS8APBUJzm3S/oid3aKkZ8J/4sfy0geu0ILw75bRo1wpBU2qnoza7qyRzjEK87HSW47834na6m0DyJ1m7Fo+jXP06smHauyVS1Jq2Ps+glprXnl0Ua1R0x20zK6RK5zWTSqPP5rdIBR3URjOu2F4tN3NfcvcC/WTdXGzFLlF58Rsp56CQ3AyMbyQeWkGtw0NcXVtlVG63NzpdWYeQaB8ZT90+QUh2lYCG9fWVKW3o8tFRb/IwUFEVKGdAxftTdgis0fgTSkSwFdfeVeNDiNfluyg61beQvbHvIFywkaoZu7BCnANGzj+CqHquQC5d5CE/tTs9CeKa0bdnkt1hw=
+{
+	"access_token": "ya29.ImC0B_mOAB4qBasYRGnGVrDiWdO7aiICj5LH-F3Dbt4HIStZByLRODxqv4QcQVQmC6fA7eBL-cXK788oboU_61VRGS6dZ7dzhw4AOeALFb8ekZDHq6LCEO4kle3E14nYcBA",
+	"expires_in": 3600,
+	"scope": "",
+	"token_type": "Bearer",
+	"id_token": "",
+	"expires_time": 1575630114,
+	"expires_createtime": 1575626814,
+	"ower": "jlucas533._.student.glendale.edu.json"
+}
