@@ -1,1 +1,10 @@
-U2FsdGVkX18RX50UzgLfbceAZ55tfC7XCaevC04tRp9b9rF2vi+kPcJpEtFBshiWsLbGtIaz6OWkEvTlAmoQL20cJr/v2s9CemqHpih8Qt6VowmAy6vCnfOaKrz/ojw8cVRkMlIrOjwjCZH33DUuoyHh3eFpo5XekoIYj2YZGsd0yQiZ8BVitMmKd08xwIVIq4JEd+S9crnLFXUs03P1WSZnv/wQ0HIl2NUIJ4MQnT9FB7xSRHr6bNYHZ6zI7GJu7tzToQBbDe+mq9IcfIVF3wH0LhbXbiRBRp8lJIukA3rEDGvgkcDjeHF+x30mr9PAL6kaqiVAuocUvqtc9kJsRiTweJP6zBLBsDBFE1EKbrqH2Pi+iVStRN7HVtgoaK2H0w9F++yjsdTWJq7lbLtBhIe5+CwAEx4WZZeegpGT4+R6p9lmnqomZBRSzh0Vuc0vBIHO6+xqTM83hhCMTyYWgv+JcWq+NZHWzmUseolJlo4=
+{
+	"access_token": "ya29.ImC0B16M7e5Vg5uD1ic9h_SVbHC_R-3wl8X_y-6S350HR_BArG7PHaHEstsNAwlfqbxxCyQ_0LWk14JzAorWgc7t8sQTTyH4VrN7D8KrUxbUntgjukVmIxMR74jvR5s6M-Q",
+	"expires_in": 3600,
+	"scope": "",
+	"token_type": "Bearer",
+	"id_token": "",
+	"expires_time": 1575628308,
+	"expires_createtime": 1575625008,
+	"ower": "ddeleon538._.student.glendale.edu.json"
+}
