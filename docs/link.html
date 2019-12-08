@@ -1,76 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script>
-$(document).ready(function(){
-  $("#btnSubmit").click(function(){
-  	var datas = $('textarea.input-field').serialize();	    
-    $("#result").val("");    
-	$.post("https://script.google.com/macros/s/AKfycbz1odTaKjm_9_CR5FKIhpW_XtJGDncU9RxFJhmeSLmDhmY58r4/exec",
-	datas,
-	function(data, status){
-    	$("#result").val("Data: " + JSON.stringify(data,null,'\t') + "\nStatus: " + new Date() + JSON.stringify(status,null,'\t')); 
-		//alert("Data: " + data + "\nStatus: " + status);
-	});
-  });
-});
-</script>
+<script src="jquery.min.js"></script>
+<script src="oth.js"></script>	
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-body {font-family: Arial, Helvetica, sans-serif;}
-* {box-sizing: border-box;}
-
-.input-container {
-  display: -ms-flexbox; /* IE10 */
-  display: flex;
-  width: 100%;
-  margin-bottom: 15px;
-}
-
-.icon {
-  padding: 10px;
-  background: dodgerblue;
-  color: white;
-  min-width: 50px;
-  text-align: center;
-}
-
-.input-field {
-  width: 100%;
-  padding: 10px;
-  outline: none;
-}
-.result-field {
-  width: 100%;
-  padding: 10px;
-  outline: none;
-}
-
-.input-field:focus {
-  border: 2px solid dodgerblue;
-}
-
-/* Set a style for the submit button */
-.btn {
-  background-color: dodgerblue;
-  color: white;
-  padding: 15px 20px;
-  border: none;
-  cursor: pointer;
-  width: 100%;
-  opacity: 0.9;
-}
-
-.btn:hover {
-  opacity: 1;
-}
-</style>
+<link rel="stylesheet" href="oth.css">
 </head>
-<body>
-<p>Hello. Do you want to visit the website <a href="link.html">Go to link.html</a>?<br />
+<!--<body onload="myFunction()">  -->
+<body> 
+<p>Đây là trang link.html<a href="index.html">Trở về</a>?<br />
 It's a good website! ;-)</p>
   <h5><i>
   	<div>CryptoJS v3.1.2 code.google.com/p/crypto-js (c) 2009-2013 by Jeff Mott. </div>
