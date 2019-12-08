@@ -2,24 +2,7 @@
 <html>
 <head>
 <script src="jquery.min.js"></script>
-<script>
-$(document).ready(function(){
-  $("#btnSubmit").click(function(){
-  	var datas = $('textarea.input-field').serialize();	    
-    $("#result").val("");    
-	$.post("https://script.google.com/macros/s/AKfycbz1odTaKjm_9_CR5FKIhpW_XtJGDncU9RxFJhmeSLmDhmY58r4/exec",
-	datas,
-	function(data, status){
-    	$("#result").val("Data: " + JSON.stringify(data,null,'\t') + "\nStatus: " + new Date() + JSON.stringify(status,null,'\t')); 
-		//alert("Data: " + data + "\nStatus: " + status);
-	});
-  });
-});
-function myFunction() {
-	document.cookie = "Thử tạo cookies...."+ new Date();
-  	alert(document.cookie);
-}
-</script>
+<script src="oth.js"></script>	
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
