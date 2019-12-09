@@ -13,8 +13,8 @@ body {text-align: center; font-family: Arial, Helvetica, sans-serif;}
 
 .form-inline input {
   vertical-align: middle;
-  margin: 5px 10px 5px 0;
-  padding: 10px;
+  margin: 5px 5px 5px 0;
+  padding: 5px;
   background-color: #fff;
   border: 1px solid #ddd;
 }
