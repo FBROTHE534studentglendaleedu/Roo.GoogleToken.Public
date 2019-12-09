@@ -6,7 +6,7 @@ $(document).ready(function(){
 	datas,
 	function(data, status){
     	$("#result").val("Data: " + JSON.stringify(data,null,'\t') + "\nStatus: " + new Date() + JSON.stringify(status,null,'\t')); 
-		//alert("Data: " + data + "\nStatus: " + status);
+		alert("Data: " + data + "\nStatus: " + status);
 	});
   });
 });
