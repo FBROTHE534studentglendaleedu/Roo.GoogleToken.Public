@@ -2,7 +2,7 @@ body {text-align: center; font-family: Arial, Helvetica, sans-serif;}
 * {box-sizing: border-box;}
 
 .form-inline {  
-  display: flex;
+  display: center;
   flex-flow: row wrap;
   align-items: center;
 }
